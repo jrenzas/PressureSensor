@@ -7,6 +7,6 @@ Date: 2015
 Language: C#, the Arduino language (extremely light version of C syntax)
 IDE Used: Visual Studio Express 2012
 
-Open sourced WITH PERMISSION, because original company it was used at closed (much to my dismay).
+Open sourced WITH PERMISSION.
 
 No wiring diagrams included. Sorry. 
